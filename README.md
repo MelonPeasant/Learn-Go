@@ -15,3 +15,11 @@ go run main.go
 
 # 编译二进制
 go build -o app main.go
+```
+
+## Git操作
+```bash
+git add .
+git commit -m "update files"
+git push
+```
