@@ -21,6 +21,7 @@ Thumbs.db
 # 日志、临时文件
 *.log
 *.tmp
+*.temp
 
 # 本地私密配置（比如密码、token）
 .env
