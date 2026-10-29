@@ -1,0 +1,27 @@
+# 编译出来的二进制程序
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+
+# Go workspace
+go.work
+go.work.sum
+
+# VS Code 本地配置（可选：如果你不想上传.vscode，就保留；想共享调试配置就删掉这行）
+.vscode/
+
+# 系统垃圾文件
+Thumbs.db
+.DS_Store
+
+# 日志、临时文件
+*.log
+*.tmp
+
+# 本地私密配置（比如密码、token）
+.env
+config.local.json
