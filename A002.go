@@ -31,5 +31,7 @@ func A002() {
 	var an_A2 Animal_A2
 	an_A2 = d
 	an_A2.Speak()
+	an_A2 = c
+	an_A2.Speak()
 
 }
